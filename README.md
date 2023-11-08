@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandyalamanaswinan" alt="nandyalamanaswinan" /></a> </p>
 
-- 🔭 I’m currently working a Fourth-year undergraduate year at IIT Ropar, India **maa**
+- 🔭 I’m currently working a Fourth-year undergraduate year at IIT Ropar, India **.**
 
 - 👯 Web Development Intern at Code Unity **.**
 
