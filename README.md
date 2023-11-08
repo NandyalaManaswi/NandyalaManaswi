@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandyala Manaswi</h1>
 <h3 align="center">Passionate at solving DSA problems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandyalamanaswinan" alt="nandyalamanaswinan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandyalamanaswi" alt="nandyalamanaswi" /></a> </p>
 
 - 🔭 I’m currently working on **gjhjkhklhn**
 
