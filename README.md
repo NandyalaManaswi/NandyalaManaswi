@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nandyala Manaswi</h1>
 <h3 align="center">Passionate at solving DSA problems</h3>
 
+- 🔭 I’m currently working on **gjhjkhklhn**
+
+- 👯 I’m looking to collaborate on **bjhjkjk**
+
 - 📫 How to reach me **manaswinandyala24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/2020eeb1185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2020eeb1185" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
