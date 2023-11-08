@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandyala Manaswi</h1>
 <h3 align="center">Passionate at solving DSA problems</h3>
 
-- 🔭 I’m currently working a Fourth-year undergraduate year at IIT Ropar, India **.**
+- 🔭 I’m currently a Fourth-year undergraduate year at IIT Ropar, India **.**
 
 - 👯 Web Development Intern at Code Unity **.**
 
